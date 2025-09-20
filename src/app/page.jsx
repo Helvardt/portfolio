@@ -1,3 +1,4 @@
 export default function Home() {
-  return<main>blankoni?</main>;
+  return<main>homepage</main>;
+  
 }

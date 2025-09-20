@@ -1,0 +1,5 @@
+{
+  "editor.colorDecorators": true,
+  "tailwindCSS.colorDecorators": "always",
+  "tailwindCSS.experimental.configFile": "./tailwind.config.cjs" // or .js
+}
