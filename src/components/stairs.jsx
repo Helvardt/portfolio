@@ -48,7 +48,7 @@ creating a staggered effect with decreasing delay for each subsequent step.
                 ease: "easeInOut",
                 delay: reverseIndex(index) * 0.07,
             }}
-            className="h-full w-full bg-[#1b2a26] relative"
+            className="h-full w-full bg-[#fdba74] relative"
         />
     );
   })}
