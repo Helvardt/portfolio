@@ -6,8 +6,8 @@ module.exports = {
     container: { center: true, padding: "15px" },
     extend: {
       colors: {
-        primary: "oklch(37.3% 0.034 259.733)",
-        accent: "#fdba74",
+        primary: "#0B1220",
+        accent: "#18E299",
       },
       fontFamily: {
         primary: "var(--font-jetbrains-mono)",

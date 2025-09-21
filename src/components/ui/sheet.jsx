@@ -71,7 +71,7 @@ function SheetContent({
         {...props}>
         {children}
         <SheetPrimitive.Close
-          className="absolute-right-8 top-8 transition-opacity outline-none">
+          className="absolute top-4 right-4">
           <IoMdClose className="text-3xl text-accent" />
           <span className="sr-only">Close</span>
         </SheetPrimitive.Close>
