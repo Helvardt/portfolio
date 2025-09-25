@@ -1,6 +1,6 @@
 import React from 'react'
 
-const esume = () => {
+const resume = () => {
   return <div>resume page</div>
   };
 
